@@ -13,7 +13,7 @@ humandate: "August 1,8,15,22 2023"    # human-readable dates for the workshop (e
 humantime: "11:00am - 3:00pm MT (1:00pm - 5:00pm ET)"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2023-08-01      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2023-08-22        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Saira Haider", "Eric Ward", "Labeeb Ahmed"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Saira Haider", "Eric Ward", "Labeeb Ahmed", "Patrick Eslick-Huff"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Taylor Woods", "Stephen Formel", "Adrian Moore", "Gregor Siegmund", "Timothy Stagnitta"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["shaider@usgs.gov","gdonovan@usgs.gov"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://doimspp.sharepoint.com/:w:/r/sites/CommunityforDataIntegration/Carpentries/202308_Software_Carpentry_Notes.docx?d=w8ea4f419f42e4e5da42b86e7fecc9452&csf=1&web=1&e=AreqnT # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
